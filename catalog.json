@@ -10,5 +10,14 @@
                 "extra_key": "nothing"
             }
         ]
+        "example": [
+            {
+                "name": "example",
+                "version": "0.0.1",
+                "git_main_file": "example.metta",
+                "git_url": "file:///./example.metta",
+                "extra_key": "nothing"
+            }
+        ]
     }
 }
