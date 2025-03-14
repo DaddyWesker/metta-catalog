@@ -15,7 +15,7 @@
                 "name": "example",
                 "version": "0.0.1",
                 "git_main_file": "example.metta",
-                "git_url": "file:///./example.metta",
+                "git_url": "https://github.com/DaddyWesker/metta-catalog/",
                 "extra_key": "nothing"
             }
         ]
